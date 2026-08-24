@@ -1,0 +1,15 @@
+# Build directories
+build/
+cmake-build-debug/
+bin/
+
+# IDE files
+.idea/
+.vscode/
+
+# Binary and object files
+*.o
+*.a
+*.so
+*.out
+*.exe
